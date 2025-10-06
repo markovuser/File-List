@@ -12,7 +12,7 @@
 
 <div align="center">
 <a href="https://github.com/markovuser/File-List/releases/latest"><img src="https://img.shields.io/github/v/release/markovuser/File-List?style=for-the-badge&labelColor=3d3d3d&color=179962" alt="Version"></a>
-<a href="https://github.com/markovuser/File-List/releases"><img src="https://img.shields.io/github/downloads/markovuser/File-List/total?style=for-the-badge&logo=github&color=blue" alt="Downloads"></a>
+<a href="https://github.com/markovuser/File-List/releases/latest/download/File.List.setup.exe"><img src="https://img.shields.io/github/downloads/markovuser/File-List/total?style=for-the-badge&logo=github&color=blue" alt="Downloads"></a>
 
 </div>
 <br><br>
