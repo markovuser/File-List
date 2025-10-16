@@ -19,7 +19,7 @@
 
 <div align="center">
   
-[<img src="https://raw.githubusercontent.com/markovuser/File-List/main/assets/download.png" width="250" alt="Download">](https://github.com/markovuser/File-List/releases/latest/download/File-List-setup.exe)
+[<img src="https://raw.githubusercontent.com/markovuser/File-List/main/assets/download.png" width="250" alt="Download">](https://github.com/markovuser/File-List/releases/latest/download/File-List-setup.exe)<br>
 [<img src="https://raw.githubusercontent.com/markovuser/File-List/main/assets/downloadport.png" width="250" alt="Download">](https://github.com/markovuser/File-List/releases/latest/download/File.List.zip)
 
 </div>
