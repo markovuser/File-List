@@ -1,6 +1,7 @@
 <div align="center">
-# File List
+<h1># File List</h1>
 </div>
+<hr>
 <div align=center>
 <b>Program for creating file lists for Inno Setup and NSIS scripts</br></br>
 <b>Программа для создания списков файлов для Inno Setup и скриптов NSIS</br></br>
