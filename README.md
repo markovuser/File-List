@@ -1,7 +1,7 @@
 <div align="center">
 <h1># File List</h1>
- <h1> The project moved and became known as  <a href="https://github.com/markovuser/Inno-Script-Tools">Inno Script Tools</a></h1>
-  <h1> Проект развился и стал известен как  <a href="https://github.com/markovuser/Inno-Script-Tools">Inno Script Tools</a></h1>
+ <h1> The project moved and became known as  <br><a href="https://github.com/markovuser/Inno-Script-Tools">Inno Script Tools</a></h1>
+  <h1> Проект развился и стал известен как  <br><a href="https://github.com/markovuser/Inno-Script-Tools">Inno Script Tools</a></h1>
 </div>
 <div align=center>
 <b>Program for creating file lists for Inno Setup scripts</br></br>
