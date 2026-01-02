@@ -3,7 +3,7 @@
 </div>
 <div align=center>
 <b>Program for creating file lists for Inno Setup scripts</br></br>
-<b>Программа для создания списков файлов для Inno Setup/br></br>
+<b>Программа для создания списков файлов для Inno Setup</br></br>
 </div>
 <hr>
 <div align="center">
